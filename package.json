@@ -1,0 +1,9 @@
+{
+  "name": "vue-webp",
+  "version": "1.0.0",
+  "description": "aa vue.js webp directive support vue.js 1.0X and 2.0X",
+  "main": "vue-webp.js",
+  "repository": "https://github.com/ycr6708536/vue-webp.git",
+  "author": "闫超仁 <24732077@qq.com>",
+  "license": "MIT"
+}
