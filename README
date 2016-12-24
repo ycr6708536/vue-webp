@@ -1,0 +1,4 @@
+# vue-webp
+a vue.js webp directive support vue.js 1.0X and 2.0X
+
+使用这个指令需要本地存在同名文件的webp格式备份可以使用 [webpn-loader](https://github.com/ycr6708536/webp-loader) 在webpack打包预览的时候搞定 使用例子请看 我的[vue-state](https://github.com/ycr6708536/vue-stage)项目
